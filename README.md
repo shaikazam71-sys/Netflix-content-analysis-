@@ -21,7 +21,7 @@ This project is an interactive Power BI dashboard built to analyze Netflix conte
   - Total Views
   - Average Rating
   - Average Duration
-
+see dashboard ss here IMG_20260721_224720_754.jpg
 - ✅ Interactive Slicers
   - Type (Movie / TV Show)
   - Genre
